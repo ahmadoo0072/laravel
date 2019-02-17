@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){var e=document.getElementById("mkbhd-gallery");null!==e&&$(e).royalSlider({imageScalePadding:0,slidesSpacing:0,minSlideOffset:0,autoScaleSlider:!1,imageScaleMode:"none",controlNavigation:"bullets",arrowsNav:!0,arrowsNavAutoHide:!0,startSlideId:0,loop:!0,transitionType:"move",controlsInside:!0,keyboardNavEnabled:!1,autoPlay:!0})});

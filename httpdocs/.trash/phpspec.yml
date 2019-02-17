@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: ACellShop
+        psr4_prefix: ACellShop
+        src_path: app

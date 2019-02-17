@@ -1,0 +1,16 @@
+public=/home/skinify/public_html/public
+vendor=/home/skinify/public_html/vendor
+tests=/home/skinify/public_html/tests
+resources=/home/skinify/public_html/resources
+storage=/home/skinify/public_html/storage
+artisan=/home/skinify/public_html/artisan
+README.md=/home/skinify/public_html/README.md
+composer.lock=/home/skinify/public_html/composer.lock
+phpunit.xml=/home/skinify/public_html/phpunit.xml
+server.php=/home/skinify/public_html/server.php
+package.json=/home/skinify/public_html/package.json
+composer.json=/home/skinify/public_html/composer.json
+gulpfile.js=/home/skinify/public_html/gulpfile.js
+phpspec.yml=/home/skinify/public_html/phpspec.yml
+ACellShop (2)=/home/skinify/public_html/ACellShop (2)
+public.1=/home/skinify/public_html/public
